@@ -139,7 +139,7 @@ msgid "Copy here the URL of your video (YouTube, Dailymotion, etc.)"
 msgstr "Зкопіюйте сюди посилання на відео (YouTube, Dailymotion и т. д.)"
 
 #: templates/index.tpl:35
-msgid "Paste the video URL of your video (YouTube, Twitter, etc.) "
+msgid "Paste the video URL of your video (YouTube, Twitter, etc.)"
 msgstr "Зкопіюйте сюди посилання на відео (YouTube, Twitter і т. д."
 
 #: templates/index.tpl:25
