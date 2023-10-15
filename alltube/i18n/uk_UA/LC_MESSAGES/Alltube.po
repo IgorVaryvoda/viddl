@@ -91,7 +91,7 @@ msgstr "Формат в який конвертуємо"
 
 #: templates/info.tpl:98
 msgid "with"
-msgstr "з
+msgstr "з"
 
 #: templates/info.tpl:99
 msgid "Bit rate"
@@ -156,7 +156,7 @@ msgstr "в"
 
 #: templates/index.tpl:41
 msgid "See all supported websites"
-msgstr "Переглянути всі підтримувані веб-сайти
+msgstr "Переглянути всі підтримувані веб-сайти"
 
 #: templates/index.tpl:43
 msgid "Drag this to your bookmarks bar:"
