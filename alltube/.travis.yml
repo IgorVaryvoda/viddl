@@ -1,0 +1,12 @@
+---
+language: php
+php: 7.3
+addons:
+  apt:
+    packages:
+      - language-pack-fr
+install: composer install --no-progress
+script:
+  - composer check-platform-reqs
+  - composer lint
+  - composer test

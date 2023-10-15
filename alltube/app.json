@@ -1,0 +1,33 @@
+{
+  "name": "Viddl me - Download Twitter, Facebook, Youtube videos. No ads",
+  "description": "HTML GUI for youtube-dl",
+  "repository": "https://github.com/Rudloff/alltube.git",
+  "logo": "https://alltubedownload.net/img/logo.png",
+  "keywords": [
+    "alltube",
+    "download",
+    "video",
+    "youtube",
+    "php"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "PYTHON": {
+      "description": "Path to python binary",
+      "value": "/app/.heroku/python/bin/python"
+    },
+    "STREAM": {
+      "description": "Enable stream mode",
+      "value": "false",
+      "required": false
+    }
+  },
+  "website": "https://alltubedownload.net/"
+}
