@@ -140,7 +140,7 @@ msgstr "Зкопіюйте сюди посилання на відео (YouTube,
 
 #: templates/index.tpl:35
 msgid "Paste the video URL of your video (YouTube, Twitter, etc.)"
-msgstr "Зкопіюйте сюди посилання на відео (YouTube, Twitter і т. д."
+msgstr "Зкопіюйте сюди посилання на відео (YouTube, Twitter і т. д.)"
 
 #: templates/index.tpl:25
 msgid "Audio only (MP3)"
