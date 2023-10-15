@@ -135,7 +135,7 @@ msgid "You need a password in order to download this video."
 msgstr "Щоб завантажити це відео, вам потрібен пароль."
 
 #: templates/index.tpl:8
-msgid "Copy here the URL of your video (YouTube, Dailymotion, etc.)"
+msgid "Paste the video URL of your video (YouTube, Dailymotion, etc.)"
 msgstr "Зкопіюйте сюди посилання на відео (YouTube, Dailymotion и т. д.)"
 
 #: templates/index.tpl:35

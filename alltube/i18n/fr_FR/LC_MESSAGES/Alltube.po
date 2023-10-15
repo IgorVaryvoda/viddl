@@ -69,7 +69,7 @@ msgid "Video password"
 msgstr "Mot de passe de la vidéo"
 
 #: templates/index.tpl:8
-msgid "Copy here the URL of your video (YouTube, Dailymotion, etc.)"
+msgid "Paste the video URL of your video (YouTube, Dailymotion, etc.)"
 msgstr "Copiez ici l'URL de votre vidéo (YouTube, Dailymotion, etc.)"
 
 #: templates/index.tpl:25
