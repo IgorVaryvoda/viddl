@@ -39,5 +39,6 @@
 
 
 
+<script defer data-domain="viddl.me" src="https://stats.varyvoda.com/js/script.js"></script>
 </body>
 </html>
