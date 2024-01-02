@@ -20,7 +20,7 @@
             {t}Image CDN by Sirv{/t}
         </a>
         &middot;
-        <a rel="noopener" target="_blank" href="https://github.com/Rudloff/alltube">
+        <a rel="noopener" target="_blank" href="https://github.com/IgorVaryvoda/viddl/tree/main/alltube">
             {t}Get the code{/t}
         </a>
 
